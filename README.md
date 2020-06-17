@@ -1,6 +1,6 @@
 # Finance Calculator
 
-Aim to develop this project to calculate various investment schemes
+Aim to develop this project for the calculation of various investment schemes
 
 - Fixed Deposit Return
 - RD Return
